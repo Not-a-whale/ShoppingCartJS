@@ -20,6 +20,7 @@ body {
 }
 /* --------------- Navbar ---------------- */
 .navbar {
+  position: -webkit-sticky;
   position: sticky;
   top: 0;
   height: 60px;
